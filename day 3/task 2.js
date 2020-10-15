@@ -20,7 +20,6 @@ function calculateWordFrequency(text, repeatsMax) {
 
     for (const number in freqMap) {
         (freqMap[number] <= repeatsMax || number === '') && delete freqMap[number];
-        console.log(`${number}: ${freqMap[number]}`);
     }
 
     return freqMap;
