@@ -10,3 +10,8 @@ function arrayContainsSum(array, sum) {
 }
 
 console.log(arrayContainsSum([1, 2, 3, 4, 152], 887));
+
+
+// let result = function(nums, k) {
+//     return nums.some((n1, i, arr) => arr.some((n2, j) => i !== j && n1 + n2 === k));
+// };
