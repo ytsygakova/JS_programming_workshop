@@ -45,7 +45,7 @@
     "edge >= 14"
   ],
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.27.2",
     "babel-eslint": "^10.1.0",
     "d3": "^5.9.4",
     "deepmerge": "^3.3.0",
