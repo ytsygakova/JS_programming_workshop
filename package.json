@@ -52,7 +52,7 @@
     "distui-helpers": "^1.2.0",
     "i18next": "^15.1.0",
     "jquery": "^2.1.4",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.6.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-circular-progressbar": "^2.0.1",
